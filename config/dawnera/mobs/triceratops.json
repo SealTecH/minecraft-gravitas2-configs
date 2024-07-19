@@ -35,7 +35,7 @@
     "RandomChance": 0.5,
     "Biomes": [
       {
-        "ID": "minecraft:savanna"
+        "ID": "tfc:old_mountains"
       }
     ]
   },

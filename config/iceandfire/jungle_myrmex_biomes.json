@@ -1,5 +1,10 @@
 {
   "biomes": [
-    [  ]
+    [{
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "tfc:mountain_lake"
+    }
+    ]
   ]
 }

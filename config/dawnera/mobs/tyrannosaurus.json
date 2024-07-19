@@ -60,13 +60,13 @@
     "RandomChance": 0.25,
     "Biomes": [
       {
-        "ID": "minecraft:plains"
+        "ID": "tfc:plains"
       },
       {
-        "ID": "minecraft:old_growth_pine_taiga"
+        "ID": "tfc:low_canyons"
       },
       {
-        "ID": "minecraft:old_growth_spruce_taiga"
+        "ID": "tfc:volcanic_oceanic_mountains"
       }
     ]
   },

@@ -34,13 +34,13 @@
     "RandomChance": 3,
     "Biomes": [
       {
-        "ID": "minecraft:plains"
+        "ID": "tfc:plains"
       },
       {
-        "ID": "minecraft:sunflower_plains"
+        "ID": "tfc:plateau"
       },
       {
-        "ID": "minecraft:sparse_jungle"
+        "ID": "tfc:volcanic_mountains"
       }
     ]
   },

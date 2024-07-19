@@ -15,13 +15,13 @@
     "RandomChance": 0.4,
     "Biomes": [
       {
-        "ID": "minecraft:warm_ocean"
+        "ID": "tfc:ocean_reef"
       },
       {
-        "ID": "minecraft:deep_lukewarm_ocean"
+        "ID": "tfc:deep_ocean_trench"
       },
       {
-        "ID": "minecraft:lukewarm_ocean"
+        "ID": "tfc:ocean"
       }
     ]
   },

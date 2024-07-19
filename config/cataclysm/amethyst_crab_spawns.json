@@ -4,7 +4,7 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:lush_caves"
+        "value": "tfc:in_biome/underground_decoration"
       }
     ]
   ]

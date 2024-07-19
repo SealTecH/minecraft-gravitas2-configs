@@ -22,16 +22,16 @@
     "RandomChance": 0.33,
     "Biomes": [
       {
-        "ID": "minecraft:savanna"
+        "ID": "tfc:plains"
       },
       {
-        "ID": "minecraft:taiga"
+        "ID": "tfc:hills"
       },
       {
-        "ID": "minecraft:old_growth_pine_taiga"
+        "ID": "tfc:mountains"
       },
       {
-        "ID": "minecraft:old_growth_spruce_taiga"
+        "ID": "tfc:oceanic_mountains"
       }
     ]
   },

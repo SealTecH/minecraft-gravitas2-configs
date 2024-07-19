@@ -1,5 +1,24 @@
 {
   "biomes": [
-    [  ]
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "tfc:ocean"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "tfc:deep_ocean_trench"
+      }
+    ],[
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "tfc:ocean_reef"
+      }
+    ]
   ]
 }

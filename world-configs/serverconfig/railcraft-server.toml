@@ -27,10 +27,10 @@ cartsBreakOnDrop = false
 steamLocomotiveEfficiency = 3.0
 #Tank cart fluid transfer rate in milli-buckets per tick, min=4, default=32, max=2048.
 #Range: 4 ~ 2048
-tankCartFluidTransferRate = 32
+tankCartFluidTransferRate = 128
 #Tank cart capacity in buckets, min=4, default=32, max=512
 #Range: 4 ~ 512
-tankCartFluidCapacity = 32
+tankCartFluidCapacity = 128
 #Change to false to disable the stacking of tanks.
 tankStackingEnabled = false
 #Allows you to set the max tank base dimension, valid values are 3, 5, 7, and 9.
@@ -63,14 +63,14 @@ preferredOres = ["railcraft", "minecraft"]
 	#Change to limit max speed on high speed rails, useful if your computer can't keep up with chunk loading
 	#iron tracks operate at 0.4 blocks per tick
 	#Range: 0.6 ~ 1.2
-	maxSpeed = 1.0
+	maxSpeed = 1.2
 	#Add entity names to exclude them from explosions caused by high speed collisions
 	ignoredEntities = ["minecraft:bat", "minecraft:blaze", "minecraft:cave_spider", "minecraft:chicken", "minecraft:parrot", "minecraft:rabbit", "minecraft:spider", "minecraft:vex", "minecraft:bee"]
 
 [charge]
 	#adjust the losses for the Charge network
 	#Range: 0.2 ~ 10.0
-	lossMultiplier = 1.0
+	lossMultiplier = 0.4
 
 [steam]
 	#adjust the heat value of Fuel in a Boiler

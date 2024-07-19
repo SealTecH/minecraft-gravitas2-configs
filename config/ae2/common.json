@@ -20,7 +20,7 @@
     "allowBlockEntities": false
   },
   "craftingCPU": {
-    "craftingCalculationTimePerTick": 5,
+    "craftingCalculationTimePerTick": 10,
     "craftingSimulatedExtraction_comment": "When true: simulate extraction of all the network\u0027s contents when starting a crafting job calculation. When false: use the cached available content list (same as terminals). Enabling might work a bit better, but it will significantly reduce performance.",
     "craftingSimulatedExtraction": false
   },
@@ -58,9 +58,9 @@
     "spawnFlawlessOnly": false
   },
   "wireless": {
-    "wirelessBaseCost": 8.0,
+    "wirelessBaseCost": 2.0,
     "wirelessCostMultiplier": 1.0,
-    "wirelessBaseRange": 16.0,
+    "wirelessBaseRange": 128.0,
     "wirelessBoosterRangeMultiplier": 1.0,
     "wirelessBoosterExp": 1.5,
     "wirelessHighWirelessCount": 64.0,

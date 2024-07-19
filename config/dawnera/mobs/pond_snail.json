@@ -41,13 +41,13 @@
     "RandomChance": 0.3,
     "Biomes": [
       {
-        "ID": "minecraft:river"
+        "ID": "tfc:river"
       },
       {
-        "ID": "minecraft:swamp"
+        "ID": "tfc:old_mountain_river"
       },
       {
-        "ID": "minecraft:mangrove_swamp"
+        "ID": "tfc:shore"
       }
     ]
   },

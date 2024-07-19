@@ -140,7 +140,7 @@
     "RandomChance": 0.33,
     "Biomes": [
       {
-        "ID": "minecraft:river"
+        "ID": "tfc:river"
       }
     ]
   },

@@ -4,42 +4,28 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:deep_ocean"
+        "value": "tfc:ocean"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:deep_lukewarm_ocean"
+        "value": "tfc:deep_ocean"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:deep_cold_ocean"
+        "value": "tfc:deep_ocean_trench"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:ocean"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:lukewarm_ocean"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:warm_ocean"
+        "value": "tfc:ocean_reef"
       }
     ],
     [

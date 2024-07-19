@@ -33,7 +33,7 @@
     "RandomChance": 0.5,
     "Biomes": [
       {
-        "ID": "minecraft:badlands"
+        "ID": "tfc:badlands"
       },
       {
         "ID": "minecraft:wooded_badlands"

@@ -13,7 +13,7 @@ familiarityDecayLimit = 0.3
 	#   doInsomnia = false (No phantoms)
 	#   doTraderSpawning = false (No wandering traders)
 	#   doPatrolSpawning = false (No pillager patrols)
-	enableForcedTFCGameRules = false
+	enableForcedTFCGameRules = true
 	#
 	# If true, TFC will stop time when no players are online on a running server.
 	# This prevents food from decaying, the calendar from advancing, and the sun from moving, etc.
@@ -821,13 +821,13 @@ familiarityDecayLimit = 0.3
 		enableVanillaWeatherEffects = false
 		#
 		# If true, vanilla will attempt to spawn skeleton 'trap' horses during thunderstorms.
-		enableVanillaSkeletonHorseSpawning = false
+		enableVanillaSkeletonHorseSpawning = true
 		#
 		# If true, enables the default vanilla behavior of mobs spawning with enchanted weapons sometimes.
-		enableVanillaMobsSpawningWithEnchantments = false
+		enableVanillaMobsSpawningWithEnchantments = true
 		#
 		# If true, enables the default behavior of mobs sapwning with vanilla armor and weapons
-		enableVanillaMobsSpawningWithVanillaEquipment = false
+		enableVanillaMobsSpawningWithVanillaEquipment = true
 		#
 		# If true, golems can be built
 		enableVanillaGolems = true

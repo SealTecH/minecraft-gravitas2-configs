@@ -73,9 +73,9 @@
 
 	[items.travelling]
 		#Range: 4 ~ 512
-		blinkRange = 24
+		blinkRange = 4
 		#Range: 0 ~ 1200
-		disabledTime = 5
+		disabledTime = 1200
 		energyUse = 1000
 		maxEnergy = 100000
 		#the following config values are only used if EIOMachines is loaded

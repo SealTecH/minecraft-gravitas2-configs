@@ -14,7 +14,7 @@
   },
   "SpawnData": {
     "SpawnCount": "2-4",
-    "SpawnWeight": 2,
+    "SpawnWeight": 20,
     "RandomChance": 1,
     "Biomes": [
       {
